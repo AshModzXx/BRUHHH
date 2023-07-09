@@ -8,5 +8,7 @@ INSTRUCTION
 Replace all the files 
 
 6.python setup.py
+
 pip3
+
 7.python main.py
