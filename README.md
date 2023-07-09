@@ -1,6 +1,6 @@
 INSTRUCTION
 1. git clone https://github.com/AshModzXx/BRUHHH
-2. 
+
 2.pkg install python
 
 3.cd BRUHHH
